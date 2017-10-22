@@ -1,0 +1,36 @@
+
+.top-bar
+{
+	background-color:#1e87a9;
+	height: 55px;
+}
+.top-bar-section li a:not(.button) {
+    background: #1e87a9;
+}
+.top-bar-section ul li.active a {
+    background: #79bdd3;
+}
+.top-bar-section li a:hover:not(.button) {
+	background: #79bdd3;
+}
+/* nav bar on smaller screens */
+.top-bar.expanded .title-area {
+	background: #1e87a9;
+}
+.top-bar-section ul {
+	background: #1e87a9;
+}
+.panel
+{
+	background-color: #fff;
+
+}
+.panel.callout 
+{
+border-style: solid;
+border-width: 1px;
+border-color: #fff;
+margin-bottom: 1.25rem;
+padding: 1.25rem;
+background: #fff;
+}

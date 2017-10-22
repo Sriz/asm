@@ -1,0 +1,83 @@
+body
+{
+	background-color: #245a7a;
+}
+
+.wrapper
+{
+	width: 1000px;
+	margin: 0 auto;
+}
+
+
+.header
+{
+	height: 180px;
+	width: 100%;
+	
+}
+.header .image-ko
+{float: left;
+}
+.header .text
+{
+	float: right;
+}
+.upper-footer
+{
+	margin:0 auto;
+	background: #888;
+	height: 50px;
+	width: 100%;
+}
+.hover {
+    position: relative;
+    top: -5px; /* this will raise the element */
+}
+nav .top-bar
+{
+	height:55px;
+}
+.content-footer
+{
+	background:#1e87a9;
+	width: 100%;
+	height: 300px;
+}
+.footer
+{
+	width: 100%;
+	height: 75px;
+	background-color: #444;
+	text-align: center;
+	padding-top:20px;
+
+}
+.footer .copy
+{
+	color: #888;
+	font-size: 12px;
+	text-align: right;
+	padding-top: 17px;
+	padding-right: 10px;
+}
+.content
+{
+	width: 100%;
+	height: auto;
+	background-color: ;
+}
+.line-break
+{
+	background-color: #1e87a9;
+	height: 4px;
+	width: 970px;
+	margin: 0 auto;
+}
+.white-line
+{
+	background-color: #fff;
+	height: 4px;
+	width: 970px;
+	margin: 0 auto;
+}
